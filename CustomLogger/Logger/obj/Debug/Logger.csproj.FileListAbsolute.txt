@@ -1,0 +1,8 @@
+D:\C_Shurp_Projects\CustomLogger\Logger\bin\Debug\Logger.exe.config
+D:\C_Shurp_Projects\CustomLogger\Logger\bin\Debug\Logger.exe
+D:\C_Shurp_Projects\CustomLogger\Logger\bin\Debug\Logger.pdb
+D:\C_Shurp_Projects\CustomLogger\Logger\bin\Debug\log4net.dll
+D:\C_Shurp_Projects\CustomLogger\Logger\bin\Debug\log4net.xml
+D:\C_Shurp_Projects\CustomLogger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\C_Shurp_Projects\CustomLogger\Logger\obj\Debug\Logger.exe
+D:\C_Shurp_Projects\CustomLogger\Logger\obj\Debug\Logger.pdb
